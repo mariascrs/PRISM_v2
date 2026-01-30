@@ -1,0 +1,8 @@
+build*/
+html/
+latex/
+.vscode
+
+*.DS_Store
+.*.swp
+.DS_Store
