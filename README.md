@@ -1,6 +1,6 @@
 # PRISM C implementation
 
-This library is a C implementation of [PRISM version 2](todo), namely where the a random salt is added to the message before hashing. 
+This library is a C implementation of [PRISM version 2](https://eprint.iacr.org/2026/443.pdf), namely where the a random salt is added to the message before hashing. 
 The code is built upon the [Qlapoti software](https://github.com/KULeuven-COSIC/Qlapoti) (accessed on December 11, 2025), which is itself built from the [SQIsign team's repo](https://www.github.com/SQIsign/the-sqisign) (accessed on April 30, 2025). As such, our software functions similarly to that of SQIsign, and the following instructions are mainly an abridged version of the SQIsign README, available [here](https://github.com/SQISign/the-sqisign/blob/main/README.md).
 
 
